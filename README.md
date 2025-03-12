@@ -124,7 +124,6 @@ Este projeto está licenciado sob a **[Licença MIT](LICENSE)**. Sinta-se à von
 Se tiver dúvidas ou sugestões, entre em contato:
 
 - **Autor**: Artanniel Fortes
-- **Email**: fortesads@gmail.com
 - **GitHub**: [Artanniel](https://github.com/Artanniel/)
 ---
 
@@ -253,7 +252,6 @@ This project is licensed under the **[MIT License](LICENSE)**. You are free to u
 If you have questions or suggestions, feel free to reach out:
 
 - **Author**: Artanniel Fortes
-- **Email**: fortesads@gmail.com
 - **GitHub**: [Artanniel](https://github.com/Artanniel/)
 
 ---
