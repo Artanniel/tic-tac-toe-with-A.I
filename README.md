@@ -28,7 +28,7 @@ Antes de começar, certifique-se de que você tem instalado em sua máquina:
 Execute o comando abaixo para clonar o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Artanniel/tic-tac-toe-with-A.I.git
 ```
 
 ### 3. Instalar dependências
@@ -36,7 +36,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 Entre na pasta do projeto e instale as dependências necessárias:
 
 ```bash
-cd seu-repositorio
+cd tic-tac-toe-with-A.I
 npm install
 ```
 
@@ -124,7 +124,7 @@ Este projeto está licenciado sob a **[Licença MIT](LICENSE)**. Sinta-se à von
 Se tiver dúvidas ou sugestões, entre em contato:
 
 - **Autor**: Artanniel Fortes
-- **GitHub**: [Seu GitHub](https://github.com/seu-usuario)
+- **GitHub**: [Artanniel](https://github.com/Artanniel/)
 
 ---
 
