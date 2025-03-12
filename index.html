@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tic Tac Toe with A.I.</title>
+  </head>
+  <body>
+    <div id="app">
+      <div id="login-screen" class="screen">
+        <h1>Welcome to Tic Tac Toe with A.I.</h1>
+        <form id="login-form">
+          <div class="form-group">
+            <label for="player-name">Your Name:</label>
+            <input type="text" id="player-name" required>
+          </div>
+          <div class="form-group">
+            <label for="api-key">Gemini API Key:</label>
+            <input type="password" id="api-key" required>
+          </div>
+          <button type="submit">Start Game</button>
+        </form>
+      </div>
+
+      <div id="game-screen" class="screen hidden">
+        <h2>Tic Tac Toe with A.I.</h2>
+        <div class="game-container">
+          <div class="game-left">
+            <div id="player-info"></div>
+            <div id="scoreboard">
+              <div class="score-item">
+                <span class="player-name"></span>: <span class="player-score">0</span>
+              </div>
+              <div class="score-item">
+                <span>A.I.</span>: <span class="ai-score">0</span>
+              </div>
+            </div>
+            <div id="board" class="board">
+              <div class="cell" data-index="0"></div>
+              <div class="cell" data-index="1"></div>
+              <div class="cell" data-index="2"></div>
+              <div class="cell" data-index="3"></div>
+              <div class="cell" data-index="4"></div>
+              <div class="cell" data-index="5"></div>
+              <div class="cell" data-index="6"></div>
+              <div class="cell" data-index="7"></div>
+              <div class="cell" data-index="8"></div>
+            </div>
+            <div id="status"></div>
+            <button id="restart-button" class="hidden">Play Again</button>
+          </div>
+          <div class="game-right">
+            <div id="chat-container">
+              <div id="chat-messages"></div>
+              <div id="chat-input-container">
+                <input type="text" id="chat-input" placeholder="Type your response..." disabled>
+                <button id="send-message" disabled>Send</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
