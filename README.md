@@ -13,6 +13,12 @@
 
 ---
 
+## 🏁 Git Hub Page
+
+Você pode visitar o projeto no Github Pages através do link: [Tic Tac Toe With A.I](https://artanniel.github.io/tic-tac-toe-with-A.I/)
+
+---
+
 ## 🚀 Colocando o projeto para rodar
 
 Siga as instruções abaixo para configurar e executar o projeto localmente.
@@ -137,6 +143,12 @@ Se tiver dúvidas ou sugestões, entre em contato:
 - Integrated chat system for interaction with the A.I.
 - Simple and intuitive interface.
 - Support for detecting winners with predefined victory combinations.
+
+---
+
+## 🏁 Git Hub Page
+
+You can visit the project on Github Pages via the link: [Tic Tac Toe With A.I](https://artanniel.github.io/tic-tac-toe-with-A.I/)
 
 ---
 
