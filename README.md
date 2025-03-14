@@ -148,7 +148,7 @@ Se tiver dúvidas ou sugestões, entre em contato:
 
 ## 🏁 Git Hub Page
 
-You can visit the project on Github Pages via the link: [Tic Tac Toe With A.I](https://artanniel.github.io/tic-tac-toe-with-A.I/)
+You can visit the project on Github Pages via the link: <a href="https://artanniel.github.io/tic-tac-toe-with-A.I/" target="_blank">Tic Tac Toe With A.I</a>
 
 ---
 
