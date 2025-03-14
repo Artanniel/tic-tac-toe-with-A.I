@@ -15,7 +15,7 @@
 
 ## 🏁 Git Hub Page
 
-Você pode visitar o projeto no Github Pages através do link: [Tic Tac Toe With A.I](https://artanniel.github.io/tic-tac-toe-with-A.I/)
+Você pode visitar o projeto no Github Pages através do link: <a href="https://artanniel.github.io/tic-tac-toe-with-A.I/" target="_blank">Tic Tac Toe With A.I</a>
 
 ---
 
