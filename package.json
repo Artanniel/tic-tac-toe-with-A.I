@@ -1,0 +1,18 @@
+{
+  "homepage": "https://Artanniel.github.io/tic-tac-toe-with-A.I",
+  "name": "tic-tac-toe-gemini",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "vite build && gh-pages -d dist -r git@github.com:Artanniel/tic-tac-toe-with-A.I.git"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "vite": "^5.4.2"
+  }
+}
