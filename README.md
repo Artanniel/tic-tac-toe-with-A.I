@@ -17,6 +17,7 @@
 
 Você pode visitar o projeto no Github Pages através do link: <a href="https://artanniel.github.io/tic-tac-toe-with-A.I/" target="_blank">Tic Tac Toe With A.I</a>
 
+
 ---
 
 ## 🚀 Colocando o projeto para rodar
